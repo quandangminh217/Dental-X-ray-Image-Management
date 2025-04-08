@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head><title>Thông tin bệnh nhân</title></head>
+<body>
+    <h2>Thông tin bệnh nhân</h2>
+    <p><strong>Họ tên:</strong> {{ patient.name }}</p>
+    <p><strong>Ngày sinh:</strong> {{ patient.dob }}</p>
+    <p><strong>Loại ảnh:</strong> {{ patient.image_type }}</p>
+    <p><strong>Mô tả:</strong> {{ patient.description }}</p>
+    <p><strong>Kết luận:</strong> {{ patient.conclusion }}</p>
+    <img src="{{ url_for('static', filename=patient.image_path) }}" width="400px">
+</body>
+</html>

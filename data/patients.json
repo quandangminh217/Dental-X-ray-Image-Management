@@ -1,0 +1,21 @@
+[
+    {
+      "id": "BN001",
+      "name": "Nguyễn Văn A",
+      "dob": "1985-05-10",
+      "image_path": "images/xquang_bn001.jpg",
+      "image_type": "X-quang",
+      "description": "Ảnh chụp toàn bộ hàm răng (Orthopantomogram - OPG). Hiển thị rõ răng hàm trên và dưới. Có dấu hiệu mọc lệch răng khôn, một số răng có thể bị sâu hoặc mòn men. Không phát hiện tổn thương lớn ở xương hàm.",
+      "conclusion": "Răng khôn mọc lệch, cần theo dõi hoặc chỉ định nhổ. Có thể có sâu răng hoặc mòn răng, cần khám lâm sàng. Khớp cắn có thể chưa đều, cân nhắc chỉnh nha nếu cần."
+    },
+    {
+      "id": "BN002",
+      "name": "Trần Thị B",
+      "dob": "1990-03-22",
+      "image_path": "images/ct_bn002.jpg",
+      "image_type": "CT",
+      "description": "Phát hiện khối u nhỏ vùng gan.",
+      "conclusion": "Cần theo dõi thêm, nghi ngờ u gan."
+    }
+]
+  
